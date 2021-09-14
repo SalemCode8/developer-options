@@ -4,5 +4,4 @@
     'category': 'Technical',
     'installable': True,
     'auto_install': False,
-    'author': 'Salem Code <salemcode8@gmail.com>'
 }
